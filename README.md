@@ -1,1 +1,1 @@
-This repository contains assignment notebooks and solution sheets for DS 703 (Advanced Machine Learning). 
+Homework 1 for DX703 (Advanced Machine Learning)
