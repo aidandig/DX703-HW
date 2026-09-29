@@ -1,0 +1,26 @@
+Model,Accuracy,Epochs
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau factor (0.2) patience (3)",0.894079864025116,16
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau factor (0.2) patience (5) min_delta (1e-3)",0.8858773112297058,17
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau factor (0.3) patience (5)",0.8848074078559875,11
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau patience (5)",0.882667601108551,15
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau factor (0.7) patience (3) min_delta (1e-3)",0.8808844685554504,15
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau factor (0.2) patience (5)",0.8805277943611145,14
+"P3: Baseline with LR (0.0001), 3rd Conv2D (128), Batch Normalization, Global Avg Pool, ReduceLROnPlateau default",0.8805277943611145,82
+"P3: Baseline with 3rd Conv2D (128), Batch Normalization, Global Avg Pool",0.8766048550605774,17
+"P3: Baseline with LR (0.0001), 3rd Conv2D (128), Batch Normalization, Global Avg Pool",0.8762482404708862,67
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau factor (0.7) patience (5)",0.8605563640594482,13
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau factor (0.2) patience (8)",0.8580599427223206,12
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau factor (0.7) patience (5) min_delta (1e-3)",0.8569900393486023,11
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau patience (8)",0.8541369438171387,13
+"P3: Baseline with LR (0.005), 3rd Conv2D (128), Batch Normalization, Global Avg Pool",0.8509272336959839,8
+"P3: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normalization, Global Avg Pool",0.8505706191062927,6
+"P4: Baseline with 1st Conv2D(16), 3rd Conv2D (128), Batch Normal., Global Avg Pool, ReduceLROnPlateau factor (0.7) patience (8)",0.8484308123588562,8
+"P2: Baseline with 3rd Conv2D (128), Batch Normalization, 0.4 DO",0.8338088393211365,15
+P1: Baseline Model with 3rd Conv2D (128),0.8288159966468811,9
+"P2: Baseline with 3rd Conv2D (128), Batch Normalization, 0.3 DO",0.8263195157051086,18
+"P2: Baseline with 3rd Conv2D (128), Batch Normalization, Dense (128)",0.8120542168617249,13
+"P3: Baseline with 3rd Conv2D (128), Batch Normalization, Global Max Pool",0.8056347966194153,4
+Baseline Model,0.7999286651611328,11
+P2: Baseline with 3rd Conv2D (128) and Batch Normalization,0.7977888584136963,32
+P1: Baseline Model with 2nd Conv2D = 128,0.7817403674125671,11
+P1: Baseline Model with LR = 0.0005,0.7806704640388489,13
